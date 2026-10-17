@@ -1,0 +1,62 @@
+[
+ {
+  "moduleId": "m-l5-01-tritone-sub",
+  "title": "트라이톤 서브스티튜션",
+  "durationSec": 1284.2125,
+  "version": 1,
+  "bgm": "Music: \"Backbay Lounge\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 99610709,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l5"
+ },
+ {
+  "moduleId": "m-l5-02-modal-interchange",
+  "title": "백도어와 모달 인터체인지",
+  "durationSec": 1178.3458,
+  "version": 1,
+  "bgm": "Music: \"Apero Hour\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 86006790,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l5"
+ },
+ {
+  "moduleId": "m-l5-03-upper-structures",
+  "title": "어퍼 스트럭처 트라이어드",
+  "durationSec": 1217.5514,
+  "version": 1,
+  "bgm": "Music: \"Samba Isobel\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 96225670,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l5"
+ },
+ {
+  "moduleId": "m-l5-04-passing-diminished",
+  "title": "대리 화성과 경과 디미니시",
+  "durationSec": 1151.0433,
+  "version": 1,
+  "bgm": "Music: \"Sidewalk Shade - slower\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 89003755,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l5"
+ },
+ {
+  "moduleId": "m-l5-05-coltrane-changes",
+  "title": "콜트레인 체인지 입문",
+  "durationSec": 1175.4154,
+  "version": 1,
+  "bgm": "Music: \"George Street Shuffle\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 87729188,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l5"
+ },
+ {
+  "moduleId": "m-l5-06-reharm-ballad",
+  "title": "발라드 리하모니제이션",
+  "durationSec": 1322.6438,
+  "version": 1,
+  "bgm": "Music: \"Deuces\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 98310123,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l5"
+ }
+]
